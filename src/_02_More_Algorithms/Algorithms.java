@@ -1,5 +1,7 @@
 package _02_More_Algorithms;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class Algorithms {
@@ -10,5 +12,9 @@ public class Algorithms {
 		else {
 			return -1;
 		}
+	}
+	
+	public static int countPearls(List<Boolean> oysters) {
+		return -1;
 	}
 }
